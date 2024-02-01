@@ -1,4 +1,36 @@
 #EXTM3U 
+#EXTINF:-1 tvg-id="bolsonaro" tvg-name="AVANÇA BRASIL (Bolsonaro)" tvg-logo="https://i.imgur.com/7Rm3uCn.png" group-title="CANAIS | YOUTUBE",AVANÇA BRASIL (Bolsonaro)
+https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TV FLORIDA (DIREITA)" tvg-logo="https://i.imgur.com/DQIMQ18.png" group-title="CANAIS | YOUTUBE",TV FLORIDA (DIREITA)
+https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="4 POR 4" tvg-logo="https://i.imgur.com/opTW9Jb.png" group-title="CANAIS | YOUTUBE",4 POR 4
+https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bolsonaro" tvg-name="FOLHA POLITICA BOLSONARO (YOUTUBE)" tvg-logo="https://i.imgur.com/ETEukSE.png" group-title="CANAIS | YOUTUBE",FOLHA POLITICA (1)
+https://livestream.zazerconer.workers.dev/channel/UCYiM773ssvNMaBHvaWWeIoQ.m3u8
+
+#EXTINF:-1 tvg-id="bolsonaro" tvg-name="FOLHA POLITICA BOLSONARO (YOUTUBE)" tvg-logo="https://i.imgur.com/ETEukSE.png" group-title="CANAIS | YOUTUBE",FOLHA POLITICA (2)
+https://ythlsgo.onrender.com/channel/UCYiM773ssvNMaBHvaWWeIoQ.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="LIVE DIOGO FORJAZ (BOLSONARO)" tvg-logo="https://i.imgur.com/EFggFQK.png" group-title="CANAIS | YOUTUBE",LIVE DIOGO FORJAZ
+https://ythlsgo.onrender.com/channel/UCuGF622vGZjANEh3t0JlrSw.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="LIVE REVISTA OESTE" tvg-logo="https://i.imgur.com/Wv34JUL.png" group-title="CANAIS | YOUTUBE",LIVE REVISTA OESTE (1)
+https://livestream.zazerconer.workers.dev/channel/UCBQAI1ZhurW3nbtJR-gBBZg.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="LIVE REVISTA OESTE" tvg-logo="https://i.imgur.com/Wv34JUL.png" group-title="CANAIS | YOUTUBE",LIVE REVISTA OESTE (2)
+https://ythlsgo.onrender.com/channel/UCBQAI1ZhurW3nbtJR-gBBZg.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="https://www.youtube.com/channel/UCzY4IvYwOgA4viaDdVNyfZQ" tvg-logo="https://i.imgur.com/4a5vN6s.png" group-title="CANAIS | YOUTUBE",PASTOR SANDRO ROCHA YOUTUBE
+https://ythlsgo.onrender.com/channel/UCzY4IvYwOgA4viaDdVNyfZQ.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="https://www.youtube.com/channel/UCLHIUIBIid6qpljFBWEOHSw/featured" tvg-logo="https://i.imgur.com/NTZgWg0.png" group-title="CANAIS | YOUTUBE",RADIO AURI VERDE BAURU (Bolsonaro)
+https://ythlsgo.onrender.com/channel/UCLHIUIBIid6qpljFBWEOHSw.m3u8
+
+#EXTINF:-1 tvg-id="bolsonaro" tvg-name="TV RADIO BRADO (Bolsonaro)" tvg-logo="https://i.imgur.com/G7ZqfAv.png" group-title="CANAIS | YOUTUBE",TV RADIO BRADO (Bolsonaro)
+https://ythlsgo.onrender.com/channel/UCBtpKi29d2LQTYJWTKPHAvg.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EByQmvm.png" group-title="MEUS VIDEOS",RICK DU BOIOL - CASAMENTO NO PESQUE PAGUE
 https://www.dropbox.com/s/zwd7jbl4ueukudn/Rick_Du_Boiol_-_Casamento_em_pesque_e_pague.mp4?dl=1
