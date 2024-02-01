@@ -9,7 +9,7 @@ https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bolsonaro" tvg-name="FOLHA POLITICA BOLSONARO (YOUTUBE)" tvg-logo="https://i.imgur.com/ETEukSE.png" group-title="CANAIS | YOUTUBE",FOLHA POLITICA (1)
-https://livestream.zazerconer.workers.dev/channel/UCYiM773ssvNMaBHvaWWeIoQ.m3u8
+https://ythls.armelin.one/channel/UCYiM773ssvNMaBHvaWWeIoQ.m3u8
 
 #EXTINF:-1 tvg-id="bolsonaro" tvg-name="FOLHA POLITICA BOLSONARO (YOUTUBE)" tvg-logo="https://i.imgur.com/ETEukSE.png" group-title="CANAIS | YOUTUBE",FOLHA POLITICA (2)
 https://ythlsgo.onrender.com/channel/UCYiM773ssvNMaBHvaWWeIoQ.m3u8
@@ -18,7 +18,7 @@ https://ythlsgo.onrender.com/channel/UCYiM773ssvNMaBHvaWWeIoQ.m3u8
 https://ythlsgo.onrender.com/channel/UCuGF622vGZjANEh3t0JlrSw.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="LIVE REVISTA OESTE" tvg-logo="https://i.imgur.com/Wv34JUL.png" group-title="CANAIS | YOUTUBE",LIVE REVISTA OESTE (1)
-https://livestream.zazerconer.workers.dev/channel/UCBQAI1ZhurW3nbtJR-gBBZg.m3u8
+https://ythls.armelin.one/channel/UCBQAI1ZhurW3nbtJR-gBBZg.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="LIVE REVISTA OESTE" tvg-logo="https://i.imgur.com/Wv34JUL.png" group-title="CANAIS | YOUTUBE",LIVE REVISTA OESTE (2)
 https://ythlsgo.onrender.com/channel/UCBQAI1ZhurW3nbtJR-gBBZg.m3u8
@@ -42,7 +42,7 @@ https://www.googleapis.com/drive/v3/files/1VzbzdlqbEiOk4VgvA9mIa_PVHTjvMn9i?alt=
 https://www.googleapis.com/drive/v3/files/1UM4CoTdZYpUHsT4TSpVRx2cFYfojxF7J?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
 #EXTINF:-1 tvg-id="https://drive.google.com/drive/u/0/folders/1C-VVKhnGT8r3u11lTGhHD8ro1ABY3nC-" tvg-logo="https://i.imgur.com/5dB12k1.png" group-title="MEUS VIDEOS",ANDRÉ DANÇANDO MICHAEL JACKSON
-https://www.googleapis.com/drive/v3/files/1yfgb2zgWE1eTHK9l-nZqf1n-ix3q1nZT?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+https://www.googleapis.com/drive/v3/files/1-BCtE65mk1pqCE-ZdLaXqBeIR6c1ZjxB?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
 #EXTINF:-1 tvg-id="https://drive.google.com/drive/u/0/folders/1C-VVKhnGT8r3u11lTGhHD8ro1ABY3nC-" tvg-logo="https://i.imgur.com/2e1LWXE.jpg" group-title="MEUS VIDEOS",HEMULT LOTTI - LATINO
 https://www.googleapis.com/drive/v3/files/1hp_kE-7khTS1Uhd6fb2OieQ2iDw6LV3J?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
