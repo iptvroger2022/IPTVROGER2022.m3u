@@ -1,4 +1,11 @@
 #EXTM3U 
+
+#EXTINF:-1 tvg-id="ext" tvg-name="https://www.youtube.com/channel/UCzY4IvYwOgA4viaDdVNyfZQ" tvg-logo="https://i.imgur.com/4a5vN6s.png"  group-title="DESDOBRAMENTOS",LIVE PASTOR DIA 02-02-2024(ARCHIVE)
+https://archive.org/download/desdobramentos-02-02-2024/DESDOBRAMENTOS%2002_02_2024.mp4
+
+#EXTINF:-1 tvg-id="ext" tvg-name="https://www.youtube.com/channel/UCzY4IvYwOgA4viaDdVNyfZQ" tvg-logo="https://i.imgur.com/4a5vN6s.png"  group-title="DESDOBRAMENTOS",LIVE PASTOR DIA 02-02-2024(YOUTUBE)
+https://ss.ytjar.xyz/rr4---sn-4g5e6nsk.googlevideo.com/videoplayback?expire=1706986074&ei=-jW-ZejaEsP61gKhipww&ip=2a01%3A4f8%3Ac17%3A6b8e%3A79df%3Ab7b0%3A6de7%3A9c28&id=o-ACaNt8g2vG2Zkgqpd3cvU4fUagPWhhmRImh777gYpnmV&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&vprv=1&mime=video%2Fmp4&gir=yes&clen=166683816&ratebypass=yes&dur=3895.263&lmt=1706897644624324&fexp=24007246&c=TVAPPLE&txp=7309224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cvprv%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIhAJElQXiiXv0zSZ9k3PXDMxLQibQdg-1TY4nKp2XsB-DjAiA5XyP9M-WEHEbvpbvqB0CExq55MBGdIOdlP-t6412vTw%3D%3D&redirect_counter=1&rm=sn-4g5er67s&req_id=80b7b4c394b3a3ee&cms_redirect=yes&cmsv=e&ipbypass=yes&mh=3E&mip=2a01:4f8:1c17:5e6a:a00b:abb7:b1ac:a244&mm=31&mn=sn-4g5e6nsk&ms=au&mt=1706965508&mv=m&mvi=4&pl=45&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AAO5W4owRAIgYh5NrsUxCsmSa15ZB5lj02OKIWpdrcXT1sG58Ii7zp4CICaQfZqj6nQZamcdyYmkLHA62PJgnuG9Ieh7BT2YD5LT
+
 #EXTINF:-1 tvg-id="bolsonaro" tvg-name="AVANÇA BRASIL (Bolsonaro)" tvg-logo="https://i.imgur.com/7Rm3uCn.png" group-title="CANAIS | YOUTUBE",AVANÇA BRASIL (Bolsonaro)
 https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
 
