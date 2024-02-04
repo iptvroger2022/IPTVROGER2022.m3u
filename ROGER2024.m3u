@@ -119,6 +119,9 @@ http://p2flix.com.br:80/live/343963665/370954400/166908.ts
 
 ###  TESTES ###
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",ENCUR-LATINO (ARCHIVE normal mp4)
+https://abre.ai/iNKr
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",LATINO (ARCHIVE normal mp4)
 https://archive.org/download/h-e-l-m-u-t-l-o-t-t-i-l-a-t-i-n-o/H_e_l_m_u_t__L_o_t_t_i__L_a_t_i_n_o.mp4
 
