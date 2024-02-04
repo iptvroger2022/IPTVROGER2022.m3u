@@ -122,47 +122,17 @@ http://p2flix.com.br:80/live/343963665/370954400/166908.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",LATINO (ARCHIVE normal mp4)
 https://archive.org/download/h-e-l-m-u-t-l-o-t-t-i-l-a-t-i-n-o/H_e_l_m_u_t__L_o_t_t_i__L_a_t_i_n_o.mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",encurt shorurl.at-LATINO (ARCHIVE)
-https://shorturl.at/hjEI6
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",encurtada_dowload_LATINO_(DRIVE)
+https://abre.ai/iNI3
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",encurt short.gy-LATINO (ARCHIVE)
-https://short.gy/wdaZrm
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",normal_dowload_LATINO_(DRIVE)
+https://drive.usercontent.google.com/download?id=1hp_kE-7khTS1Uhd6fb2OieQ2iDw6LV3J&export=download&authuser=0&confirm=t&uuid=7cee62ed-627f-4791-b3f1-0fefd82266f7&at=APZUnTUOekvH17ZJ2vbHiO-4EvUd:1707083030477
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",encurt abre.ai(1)-LATINO (ARCHIVE)
-https://abre.ai/iNtY
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",encurt abre.ai-mp4-1-LATINO (DRIVE)
-https://abre.ai/iNFL
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",encurt abre.ai-mp4-0-LATINO (DRIVE)
-https://abre.ai/iNFM
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",mp4-1-LATINO (DRIVE)
-https://www.googleapis.com/drive/v3/files/1hp_kE-7khTS1Uhd6fb2OieQ2iDw6LV3J?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY&mime=video/mp4&vprv=1
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",mp4-0-LATINO (DRIVE)
-https://www.googleapis.com/drive/v3/files/1hp_kE-7khTS1Uhd6fb2OieQ2iDw6LV3J?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY&mime=video/mp4&vprv=0
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",VIDEO IPTV (YOUTUBE)
-https://www.youtube.com/embed/pEKyAKbVf5g
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",encurt abre.ai_DOWMLOAD_QUIDAN_DRIVE
-https://abre.ai/iNGy
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",encurt abre.ai_DOWMLOAD_QUIDAN_DRIVE
-https://drive.usercontent.google.com/download?id=1aKSxrzuy7lZhs4Ll6jTBoKQLTER3aCgy&export=download&authuser=0
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",encurt abre.ai_DOWMLOAD_QUIDAN_DRIVE
-https://abre.ai/iNGy
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",encurt abre.ai-user1_DOWMLOAD_QUIDAN_DRIVE
-https://abre.ai/iNGQ
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",encurt abre.ai_exten-DOWMLOAD_QUIDAN_DRIVE
-https://abre.ai/iNGR
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",user1_DOWMLOAD_QUIDAN_DRIVE
-https://drive.usercontent.google.com/download?id=1aKSxrzuy7lZhs4Ll6jTBoKQLTER3aCgy&export=download&authuser=1
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",extendidoDOWMLOAD_QUIDAN_DRIVE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",extendido-1-DOWMLOAD_QUIDAN_DRIVE
 https://drive.usercontent.google.com/download?id=1aKSxrzuy7lZhs4Ll6jTBoKQLTER3aCgy&export=download&authuser=0&confirm=t&uuid=533fe550-9d11-460b-b864-33e16bd7d78c&at=APZUnTWIA_qGkTyB7BDFpsUdm4Ym:1699645494934
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",extendido-2-DOWMLOAD_QUIDAN_DRIVE
+https://drive.usercontent.google.com/download?id=1aKSxrzuy7lZhs4Ll6jTBoKQLTER3aCgy&export=download&authuser=0&confirm=t&uuid=ae89d231-a967-40e2-8e28-4297bf989688&at=APZUnTUChvpCLlhteoKHrm4Oiq7R:1707083989334
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",encurtada_dowload_QUIDAN_(DRIVE)
+https://abre.ai/iNI3
