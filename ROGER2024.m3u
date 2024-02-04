@@ -131,21 +131,24 @@ https://short.gy/wdaZrm
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",encurt abre.ai(1)-LATINO (ARCHIVE)
 https://abre.ai/iNtY
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",encurt abre.ai(mp4&vprv=1)-LATINO (DRIVE)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",encurt abre.ai-mp4-1-LATINO (DRIVE)
 https://abre.ai/iNFL
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",encurt abre.ai(mp4&vprv=0)-LATINO (DRIVE)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",encurt abre.ai-mp4-0-LATINO (DRIVE)
 https://abre.ai/iNFM
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",mp4&vprv=1-LATINO (DRIVE)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",mp4-1-LATINO (DRIVE)
 https://www.googleapis.com/drive/v3/files/1hp_kE-7khTS1Uhd6fb2OieQ2iDw6LV3J?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY&mime=video/mp4&vprv=1
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",mp4&vprv=0-LATINO (DRIVE)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",mp4-0-LATINO (DRIVE)
 https://www.googleapis.com/drive/v3/files/1hp_kE-7khTS1Uhd6fb2OieQ2iDw6LV3J?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY&mime=video/mp4&vprv=0
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",VIDEO IPTV (YOUTUBE)
 https://www.youtube.com/embed/pEKyAKbVf5g
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",A Fera
-https://abre.ai/hf8e
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",encurt abre.ai_DOWMLOAD_QUIDAN_DRIVE
+https://abre.ai/iNGy
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TESTE MEUS VIDEOS",encurt abre.ai_DOWMLOAD_QUIDAN_DRIVE
+https://drive.usercontent.google.com/download?id=1aKSxrzuy7lZhs4Ll6jTBoKQLTER3aCgy&export=download&authuser=0
 
