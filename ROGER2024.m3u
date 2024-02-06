@@ -78,7 +78,10 @@ https://www.googleapis.com/drive/v3/files/1c79AHkNbiMB52bncpCGWp-AexXrthpPH?alt=
 #EXTINF:-1 tvg-id="https://drive.google.com/file/d/1sqmZ7HDOsCX8YcGHUYU-imAeSbz-r-cI/view?usp=drive_link" tvg-logo="https://i.imgur.com/O2mtUsv.png" group-title="MEUS VIDEOS",HELMUT LOTTI - FROM RUSSIA
 https://www.googleapis.com/drive/v3/files/1sqmZ7HDOsCX8YcGHUYU-imAeSbz-r-cI?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY&mime=video/mp4&vprv=1
 
-#EXTINF:-1 tvg-id="https://drive.google.com/file/d/1aKSxrzuy7lZhs4Ll6jTBoKQLTER3aCgy/view?usp=drive_link" tvg-logo="https://i.imgur.com/stVI4li.png" group-title="MEUS VIDEOS",CIRQUE DU SOLEIL - QUIDAM
+#EXTINF:-1 tvg-id="https://archive.org/download/q-u-i-d-a/Q_U_I_D_A.mp4" tvg-logo="https://i.imgur.com/stVI4li.png" group-title="MEUS VIDEOS",(1)-CIRQUE DU SOLEIL - QUIDAM
+https://abre.ai/iOOT
+
+#EXTINF:-1 tvg-id="https://drive.google.com/file/d/1aKSxrzuy7lZhs4Ll6jTBoKQLTER3aCgy/view?usp=drive_link" tvg-logo="https://i.imgur.com/stVI4li.png" group-title="MEUS VIDEOS",(2)-CIRQUE DU SOLEIL - QUIDAM
 https://www.googleapis.com/drive/v3/files/1aKSxrzuy7lZhs4Ll6jTBoKQLTER3aCgy?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
 #EXTINF:-1 tvg-id="https://archive.org/download/cirquedusoleil-alegria/Alegr%C3%ADa%20-%202001.mp4" tvg-logo="https://i.imgur.com/Bwpgh6O.png" group-title="MEUS VIDEOS",CIRQUE DU SOLEIL - ALEGRIA 2001
