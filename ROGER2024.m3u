@@ -96,12 +96,11 @@ https://abre.ai/iNK3
 #EXTINF:-1 tvg-id="http://cdn.xcore.ca:80/movie/../../35258.mp4" tvg-logo="http://im.pkweb.ca:80/images/33ecdc4ffeb7d9572b1cdd8a945033c6.jpg" group-title="MEUS VIDEOS",DEPOIS DO UNIVERSO (2022)
 https://abre.ai/iNK0
 
-#EXTINF:-1 tvg-id="https://archive.org/download/melodysheep-symphony-of-science-collection/Timelapse%20Of%20%28...%29/TIMELAPSE%20OF%20THE%20FUTURE%20A%20Journey%20to%20the%20End%20of%20Time.mkv
-" tvg-logo="https://i.ytimg.com/vi/uD4izuDMUQA/mqdefault.jpg" group-title="MEUS VIDEOS",MKV-TIMELAPSE OF THE FUTURE A JOURNEY TO THE END OF TIME
-https://abre.ai/iOEx
-
 #EXTINF:-1 tvg-id="https://archive.org/download/melodysheep-symphony-of-science-collection/Timelapse%20Of%20%28...%29/TIMELAPSE%20OF%20THE%20FUTURE%20A%20Journey%20to%20the%20End%20of%20Time.mp4" tvg-logo="https://i.ytimg.com/vi/uD4izuDMUQA/mqdefault.jpg" group-title="MEUS VIDEOS",MP4-TIMELAPSE OF THE FUTURE A JOURNEY TO THE END OF TIME
 https://abre.ai/iOEF
+
+#EXTINF:-1 tvg-id="https://archive.org/download/melodysheep-symphony-of-science-collection/Timelapse%20Of%20%28...%29/TIMELAPSE%20OF%20THE%20FUTURE%20A%20Journey%20to%20the%20End%20of%20Time.mkv" tvg-logo="https://i.ytimg.com/vi/uD4izuDMUQA/mqdefault.jpg" group-title="MEUS VIDEOS",MKV-TIMELAPSE OF THE FUTURE A JOURNEY TO THE END OF TIME
+https://abre.ai/iOEx
 
 #EXTINF:-1 tvg-id="https://drive.google.com/file/d/1P3xZdrDJjdxXaR-XWH-etpfQBrJy75e7/view?usp=drive_link" tvg-logo="https://i.imgur.com/40Du0JI.png" group-title="MEUS VIDEOS",MICHAEL FLATLEY - LORD OF THE DANCE
 https://www.googleapis.com/drive/v3/files/1P3xZdrDJjdxXaR-XWH-etpfQBrJy75e7?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
