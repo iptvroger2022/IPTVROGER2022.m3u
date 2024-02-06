@@ -54,8 +54,8 @@ https://www.googleapis.com/drive/v3/files/1VzbzdlqbEiOk4VgvA9mIa_PVHTjvMn9i?alt=
 #EXTINF:-1 tvg-id="https://archive.org/download/video-sitio-montagem/VIDEO_SITIO_MONTAGEM.mp4" tvg-logo="https://i.imgur.com/5dB12k1.png" group-title="MEUS VIDEOS",VIDEO SITIO NOSTALGIA
 https://abre.ai/iOC4
 
-#EXTINF:-1 tvg-id="https://archive.org/download/aniversario-vo-angelina/ANIVERSARIO_VO_ANGELINA.mp4" tvg-logo="https://i.imgur.com/5dB12k1.png" group-title="MEUS VIDEOS",
-https://abre.ai/iODH
+#EXTINF:-1 tvg-id="https://archive.org/download/2-aniversario-vo-angelina/2--ANIVERSARIO_VO_ANGELINA.mp4 tvg-logo="https://i.imgur.com/5dB12k1.png" group-title="MEUS VIDEOS",ANIVERSARIO_VO_ANGELINA
+https://abre.ai/iOE7
 
 #EXTINF:-1 tvg-id="https://drive.google.com/drive/u/0/folders/1C-VVKhnGT8r3u11lTGhHD8ro1ABY3nC-" tvg-logo="https://i.imgur.com/5dB12k1.png" group-title="MEUS VIDEOS",ANIVERSARIO VÓ ANGELINA
 https://drive.usercontent.google.com/download?id=1UM4CoTdZYpUHsT4TSpVRx2cFYfojxF7J&export=download&authuser=0&confirm=t&uuid=ac765689-8ea7-4e3e-8710-4d1d4edee21c&at=APZUnTU-Z3fZ69HD_RwXOqrFsDze:1707176814237
@@ -95,6 +95,13 @@ https://abre.ai/iNK3
 
 #EXTINF:-1 tvg-id="http://cdn.xcore.ca:80/movie/../../35258.mp4" tvg-logo="http://im.pkweb.ca:80/images/33ecdc4ffeb7d9572b1cdd8a945033c6.jpg" group-title="MEUS VIDEOS",DEPOIS DO UNIVERSO (2022)
 https://abre.ai/iNK0
+
+#EXTINF:-1 tvg-id="https://archive.org/download/melodysheep-symphony-of-science-collection/Timelapse%20Of%20%28...%29/TIMELAPSE%20OF%20THE%20FUTURE%20A%20Journey%20to%20the%20End%20of%20Time.mkv
+" tvg-logo="https://i.ytimg.com/vi/uD4izuDMUQA/mqdefault.jpg" group-title="MEUS VIDEOS",MKV-TIMELAPSE OF THE FUTURE A JOURNEY TO THE END OF TIME
+https://abre.ai/iOEx
+
+#EXTINF:-1 tvg-id="https://archive.org/download/melodysheep-symphony-of-science-collection/Timelapse%20Of%20%28...%29/TIMELAPSE%20OF%20THE%20FUTURE%20A%20Journey%20to%20the%20End%20of%20Time.mp4" tvg-logo="https://i.ytimg.com/vi/uD4izuDMUQA/mqdefault.jpg" group-title="MEUS VIDEOS",MP4-TIMELAPSE OF THE FUTURE A JOURNEY TO THE END OF TIME
+https://abre.ai/iOEF
 
 #EXTINF:-1 tvg-id="https://drive.google.com/file/d/1P3xZdrDJjdxXaR-XWH-etpfQBrJy75e7/view?usp=drive_link" tvg-logo="https://i.imgur.com/40Du0JI.png" group-title="MEUS VIDEOS",MICHAEL FLATLEY - LORD OF THE DANCE
 https://www.googleapis.com/drive/v3/files/1P3xZdrDJjdxXaR-XWH-etpfQBrJy75e7?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
